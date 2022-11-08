@@ -1,0 +1,21 @@
+#container-one{
+    position: relative;
+    
+  
+    
+    background-color: #DEF5E5;
+    text-align: center;
+    padding: 4% 2%;
+    
+}
+
+ .mountain{
+    border-radius: 60%;
+    width: 30%;
+ } 
+ .name{
+    font-weight: lighter;
+    color: #518dad;
+    line-height: 1;
+    margin-top: 1%;
+ }
