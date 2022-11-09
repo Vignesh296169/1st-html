@@ -1,3 +1,10 @@
+ body{
+  background-image: url("/image/3DnTgd.webp");   
+   background-size:auto;
+   background-blend-mode:darken;
+   
+ }
+
 #container-one{
     position: relative;
     
@@ -25,6 +32,8 @@
        flex-direction: column;
        justify-content: center;
       padding: 3%;
+     
+      
       align-items: center;
      
   
@@ -49,4 +58,26 @@
 }
 .box3{
    text-align: center;
+}
+footer{
+   text-align: center;
+   padding: 1px;
+   text-decoration: none;
+  
+}
+
+button:hover{
+   background: linear-gradient(rgb(203, 203, 250),rgb(249, 164, 164));
+   transition: 10s;
+   text-decoration: none;
+}
+   
+hr{
+   
+   
+   border-style: dotted;
+  border-bottom-style:0 ;
+   width: 20%;
+   
+   background-color: rgb(204, 238, 238);
 }
