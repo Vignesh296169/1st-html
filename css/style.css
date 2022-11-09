@@ -19,3 +19,34 @@
     line-height: 1;
     margin-top: 1%;
  }
+ /* container */
+ .container{
+       display: flex;
+       flex-direction: column;
+       justify-content: center;
+      padding: 3%;
+      align-items: center;
+     
+  
+ }
+ .design{
+   color: #9ED5C5;
+   font-family: 'Merriweather', serif;
+   font-weight: 300;
+
+ }
+ .htow{
+   color: rgb(160, 182, 249);
+   font-weight: 500;
+   font-family: 'Montserrat', sans-serif;
+ }
+
+.box1{
+   text-align: center;
+}
+.box2{
+   text-align: center;
+}
+.box3{
+   text-align: center;
+}
