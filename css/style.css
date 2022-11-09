@@ -1,5 +1,5 @@
  body{
-  background-image: url("/image/3DnTgd.webp");   
+  background-image: url("/image/textured-background.jpg");   
    background-size:auto;
    background-blend-mode:darken;
    
@@ -22,7 +22,7 @@
  } 
  .name{
     font-weight: lighter;
-    color: #518dad;
+    color: #497174;
     line-height: 1;
     margin-top: 1%;
  }
@@ -39,13 +39,13 @@
   
  }
  .design{
-   color: #9ED5C5;
+   color: #497174;
    font-family: 'Merriweather', serif;
    font-weight: 300;
 
  }
  .htow{
-   color: rgb(160, 182, 249);
+   color:#497174;
    font-weight: 500;
    font-family: 'Montserrat', sans-serif;
  }
