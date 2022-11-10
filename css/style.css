@@ -63,13 +63,16 @@ footer{
    text-decoration: none;
   
 }
+button{
+   transition: 10s;
 
+}
 button:hover{
    background: linear-gradient(rgb(203, 203, 250),rgb(249, 164, 164));
-   transition: 10s;
+ 
    text-decoration: none;
 }
-   
+
 hr{
    
    
