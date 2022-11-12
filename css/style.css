@@ -8,7 +8,7 @@
     box-shadow: 10px 0 5px #B6E388;
     animation-name: intro;
     animation-duration: 5s;
-    animation-iteration-count:2;
+    animation-iteration-count:5;
    animation-timing-function: linear;
     
 }
